@@ -1,3 +1,5 @@
+-- Default readme, to be changed --
+
 # Product Name
 > Short blurb about what your product does.
 
